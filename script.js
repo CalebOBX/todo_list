@@ -180,8 +180,8 @@ class ToDoList extends React.Component {
                 value={new_task}
                 onChange={this.handleChange}
               />
-            </form>
-            <button type="submit" className="btn btn-primary mb-2">Submit</button>
+              <button type="submit" className="btn btn-primary mb-2">Submit</button>
+            </form>            
           </div>
         </div>
       </div>
